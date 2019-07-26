@@ -1,22 +1,26 @@
 {
-  "name": "@seanmcp/hooks",
-  "version": "0.0.0",
-  "description": "A monorepo of hooks",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SeanMcP/hooks.git"
-  },
-  "keywords": [
-    "React"
-  ],
-  "author": "Sean McPherson <mail@seanmcp.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/SeanMcP/hooks/issues"
-  },
-  "homepage": "https://github.com/SeanMcP/hooks#readme"
+    "name": "@seanmcp/hooks",
+    "version": "0.0.0",
+    "description": "A monorepo of hooks",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SeanMcP/hooks.git"
+    },
+    "keywords": [
+        "React",
+        "hooks"
+    ],
+    "author": "Sean McPherson <mail@seanmcp.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SeanMcP/hooks/issues"
+    },
+    "homepage": "https://github.com/SeanMcP/hooks#readme",
+    "devDependencies": {
+        "lerna": "^3.16.4"
+    }
 }
